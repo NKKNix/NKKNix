@@ -75,12 +75,5 @@ Personal website showcasing my work, resume, and blog.
 - 🌐 [Portfolio](https://yourportfolio.com)  
 - ✉️ your.email@example.com
 
----
-## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-*Thanks for visiting my GitHub! Feel free to check out my projects and reach out if you want to collaborate.*
 
