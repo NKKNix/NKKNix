@@ -1,6 +1,6 @@
 # Hi there, I'm Nick 👋
 
-| 🌍 [Ubon Ratchathani Thailand ] | 📧 [supawit.thongrueng@gmail.com] | 🔗 [Portfolio/LinkedIn]
+| 🌍 [Ubon Ratchathani Thailand ] | 📧 [supawit.thongrueng@gmail.com] |
 
 ---
 ## 👨‍💻 About Me
@@ -63,9 +63,9 @@ I'm a passionate and curious developer who loves building things from scratch, l
 
 ## 📂 Projects
 
-### 🧠 **AI-Powered Notes App**
+### 🧠 **Autopart Management System**
 A web app that uses AI to summarize and organize notes. Built with React, Flask, and MongoDB.  
-[🔗 GitHub](https://github.com/yourusername/project1)
+[🔗 GitHub](https://github.com/NKKNick/Autopart_py.git)
 
 ### 🎮 **2D Game Engine Prototype**
 Created a simple 2D game engine using Godot and GDScript. Includes a basic level editor.  
