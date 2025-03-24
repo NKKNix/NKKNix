@@ -63,7 +63,8 @@ I'm a passionate and curious developer who loves building things from scratch, l
 
 ## 📂 Projects
 
-### 🧠 **Autopart Management System**
+### ![image](https://github.com/user-attachments/assets/a25b19be-8e09-489f-b71d-be9f75d55232)
+ **Autopart Management System**
 A web app that uses AI to summarize and organize notes. Built with React, Flask, and MongoDB.  
 [🔗 GitHub](https://github.com/NKKNick/Autopart_py.git)
 
