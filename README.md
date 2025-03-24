@@ -20,7 +20,7 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 
 | **Backend** | 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
@@ -28,7 +28,7 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) 
 ![Fiber](https://img.shields.io/badge/Fiber-00BFA6?style=flat&logo=go&logoColor=white) 
-![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat&logo=go&logoColor=white) |
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat&logo=go&logoColor=white) 
 
 | **Database** | 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) 
@@ -38,13 +38,13 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Studio 3T](https://img.shields.io/badge/Studio_3T-4DB33D?style=flat&logo=mongodb&logoColor=white) |
+![Studio 3T](https://img.shields.io/badge/Studio_3T-4DB33D?style=flat&logo=mongodb&logoColor=white) 
 
 | **Languages** | 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 
 
 | **Tools** | 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
@@ -65,17 +65,18 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ## 📂 Projects
 
 ### 🔧 **Autopart Management System**
-A web app that uses AI to summarize and organize notes. Built with React, Flask, and MongoDB.  
+A web-based application for managing automotive parts inventory, built with Django for a robust and scalable backend. Designed to streamline the tracking, categorization, and availability of parts for workshops or suppliers. 
 [🔗 GitHub](https://github.com/NKKNick/Autopart_py.git)
 
-### 🎮 **POS for restaurant**
-Created a simple 2D game engine using Godot and GDScript. Includes a basic level editor.  
-[🔗 GitHub](https://github.com/yourusername/project2)
+### 🖥️ **POS for restaurant**
+A modern web-based Point of Sale (POS) system designed specifically for restaurants. Built with Vite.js for a fast and responsive frontend experience, and powered by Go Fiber on the backend for efficient, high-performance APIs
+[🔗 Frontend](https://github.com/pongsapat64/bolt-hackaton.git) 
+[🔗 Backend](https://github.com/NKKNix/stripe_pos.git)  
 [🌍 Website](https://pos-hackaton.onrender.com/pos)  
 📝 **Note:** The backend service may take up to **50 seconds** to start due to free Render hosting.
 
-### 💬 **Buffet management system API**
-
+### 🍽️ **Buffet management system API**
+A RESTful API backend built with Express.js, designed to support buffet-style restaurant operations. This system handles essential backend functionality for managing customers, orders, food items, 
 [🔗 GitHub](https://github.com/yourusername/project3)
 [🌍 Service](https://buffetsystemback.onrender.com/api-docs/)
 📝 **Note:** The service may take up to **50 seconds** to start due to free Render hosting.
