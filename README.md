@@ -49,14 +49,12 @@ I'm a passionate and curious developer who loves building things from scratch, l
 | **Tools** | 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) 
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
-![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=flat&logo=amazon-aws&logoColor=white) 
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
 |
 
 
@@ -76,10 +74,11 @@ Created a simple 2D game engine using Godot and GDScript. Includes a basic level
 📝 **Note:** The backend service may take up to **50 seconds** to start due to free Render hosting.
 
 ### 💬 **Buffet management system API**
-Built a realtime chat application with WebSocket and Express.js. Deployed with Docker and Nginx.  
+
 [🔗 GitHub](https://github.com/yourusername/project3)
 [🌍 Service](https://buffetsystemback.onrender.com/api-docs/)
 📝 **Note:** The service may take up to **50 seconds** to start due to free Render hosting.
+
 ---
 
 ## 🎓 Education
