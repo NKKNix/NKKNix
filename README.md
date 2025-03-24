@@ -83,7 +83,7 @@ A modern web-based Point of Sale (POS) system designed specifically for restaura
 ### 🍽️ **Buffet management system API**
 A full-featured RESTful API backend built with Express.js, Supabase, and Redis, designed to streamline buffet-style restaurant operations. The system supports menu and order management, table-based ordering, and dynamic QR code generation for customer convenience.
 
-[🔗 GitHub](https://github.com/yourusername/project3)
+[🔗 GitHub](https://github.com/NKKNix/BuffetSystemBack.git)
 
 [🌍 Service](https://buffetsystemback.onrender.com/api-docs/)
 
