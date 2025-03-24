@@ -55,7 +55,9 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
 ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=flat&logo=amazon-aws&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+|
 
 
 
@@ -63,19 +65,21 @@ I'm a passionate and curious developer who loves building things from scratch, l
 
 ## 📂 Projects
 
-### ![image](https://github.com/user-attachments/assets/a25b19be-8e09-489f-b71d-be9f75d55232)
- **Autopart Management System**
+### 🔧 **Autopart Management System**
 A web app that uses AI to summarize and organize notes. Built with React, Flask, and MongoDB.  
 [🔗 GitHub](https://github.com/NKKNick/Autopart_py.git)
 
-### 🎮 **2D Game Engine Prototype**
+### 🎮 **POS for restaurant**
 Created a simple 2D game engine using Godot and GDScript. Includes a basic level editor.  
 [🔗 GitHub](https://github.com/yourusername/project2)
+[🌍 Website](https://pos-hackaton.onrender.com/pos)  
+📝 **Note:** The backend service may take up to **50 seconds** to start due to free Render hosting.
 
-### 💬 **Realtime Chat App**
+### 💬 **Buffet management system API**
 Built a realtime chat application with WebSocket and Express.js. Deployed with Docker and Nginx.  
 [🔗 GitHub](https://github.com/yourusername/project3)
-
+[🌍 Service](https://buffetsystemback.onrender.com/api-docs/)
+📝 **Note:** The service may take up to **50 seconds** to start due to free Render hosting.
 ---
 
 ## 🎓 Education
