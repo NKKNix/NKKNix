@@ -65,20 +65,28 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ## 📂 Projects
 
 ### 🔧 **Autopart Management System**
-A web-based application for managing automotive parts inventory, built with Django for a robust and scalable backend. Designed to streamline the tracking, categorization, and availability of parts for workshops or suppliers._
+A web-based application for managing automotive parts inventory, built with Django for a robust and scalable backend. Designed to streamline the tracking, categorization, and availability of parts for workshops or suppliers.
+
 [🔗 GitHub](https://github.com/NKKNick/Autopart_py.git)
 
 ### 🖥️ **POS for restaurant**
-A modern web-based Point of Sale (POS) system designed specifically for restaurants. Built with Vite.js for a fast and responsive frontend experience, and powered by Go Fiber on the backend for efficient, high-performance APIs␣␣
-[🔗 Frontend](https://github.com/pongsapat64/bolt-hackaton.git)__
-[🔗 Backend](https://github.com/NKKNix/stripe_pos.git)__
-[🌍 Website](https://pos-hackaton.onrender.com/pos) __
+A modern web-based Point of Sale (POS) system designed specifically for restaurants. Built with Vite.js for a fast and responsive frontend experience, and powered by Go Fiber on the backend for efficient, high-performance APIs
+
+[🔗 Frontend](https://github.com/pongsapat64/bolt-hackaton.git)
+
+[🔗 Backend](https://github.com/NKKNix/stripe_pos.git)
+
+[🌍 Website](https://pos-hackaton.onrender.com/pos)
+
 📝 **Note:** The backend service may take up to **50 seconds** to start due to free Render hosting.
 
 ### 🍽️ **Buffet management system API**
-A full-featured RESTful API backend built with Express.js, Supabase, and Redis, designed to streamline buffet-style restaurant operations. The system supports menu and order management, table-based ordering, and dynamic QR code generation for customer convenience.__
-[🔗 GitHub](https://github.com/yourusername/project3)__
-[🌍 Service](https://buffetsystemback.onrender.com/api-docs/)__
+A full-featured RESTful API backend built with Express.js, Supabase, and Redis, designed to streamline buffet-style restaurant operations. The system supports menu and order management, table-based ordering, and dynamic QR code generation for customer convenience.
+
+[🔗 GitHub](https://github.com/yourusername/project3)
+
+[🌍 Service](https://buffetsystemback.onrender.com/api-docs/)
+
 📝 **Note:** The service may take up to **50 seconds** to start due to free Render hosting.
 
 ---
