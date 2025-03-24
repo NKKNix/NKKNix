@@ -69,7 +69,7 @@ A web-based application for managing automotive parts inventory, built with Djan
 [🔗 GitHub](https://github.com/NKKNick/Autopart_py.git)
 
 ### 🖥️ **POS for restaurant**
-A modern web-based Point of Sale (POS) system designed specifically for restaurants. Built with Vite.js for a fast and responsive frontend experience, and powered by Go Fiber on the backend for efficient, high-performance APIs__
+A modern web-based Point of Sale (POS) system designed specifically for restaurants. Built with Vite.js for a fast and responsive frontend experience, and powered by Go Fiber on the backend for efficient, high-performance APIs␣␣
 [🔗 Frontend](https://github.com/pongsapat64/bolt-hackaton.git)__
 [🔗 Backend](https://github.com/NKKNix/stripe_pos.git)__
 [🌍 Website](https://pos-hackaton.onrender.com/pos) __
