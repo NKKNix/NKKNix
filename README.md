@@ -26,7 +26,8 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen)
 ![Fiber](https://img.shields.io/badge/Fiber-00BFA6?style=flat&logo=go&logoColor=white) 
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat&logo=go&logoColor=white) 
 
