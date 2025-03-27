@@ -18,7 +18,13 @@ async function fetchWeather() {
   const iconResponse = await axios.get(iconURL, { responseType: 'arraybuffer' });
   const iconBase64 = Buffer.from(iconResponse.data).toString('base64');
   const iconDataURI = `data:image/png;base64,${iconBase64}`;
-  const now = new Date().toLocaleTimeString();
+  const timeInBangkok = new Intl.DateTimeFormat('en-TH', {
+  timeZone: 'Asia/Bangkok',
+  hour: '2-digit',
+  minute: '2-digit',
+  second: '2-digit',
+  hour12: true
+}).format(new Date());
 
   const svg = `
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
@@ -28,7 +34,7 @@ async function fetchWeather() {
   <image href="${iconDataURI}" x="10" y="10" height="80" width="80"/>
   <text x="100" y="40" class="text">${CITY}</text>
   <text x="100" y="70" class="text">${temp}°C - ${description}</text>
-  <text x="100" y="90" class="text">Updated: ${now}</text>
+  <text x="100" y="90" class="text">Updated: ${timeInBangkok} (TH)</text>
 </svg>
 `;
 
