@@ -8,12 +8,6 @@
 I'm a passionate and curious developer who loves building things from scratch, learning new technologies, and solving real-world problems. I recently completed my studies in Data Science and Software Innovation, I'm now looking for opportunities to grow in a professional software development environment.
 
 ---
-# 🌤️ Ubon Ratchathani Weather
-
-> Current weather in Ubon Ratchathani
-
-![Weather](https://raw.githubusercontent.com/NKKNix/NKKNix/weather.svg)
-
 
 
 ## 🔨 Tech Stack
