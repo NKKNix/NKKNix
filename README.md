@@ -12,7 +12,7 @@ I'm a passionate and curious developer who loves building things from scratch, l
 
 > Current weather in Ubon Ratchathani
 
-![Weather](https://raw.githubusercontent.com/NKKNix/weather.svg)
+![Weather](https://raw.githubusercontent.com/NKKNix/NKKNix/weather.svg)
 
 
 
