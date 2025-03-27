@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 const API_KEY = process.env.OPENWEATHER_API_KEY;
-const CITY = 'Ubon Ratchathani';
+const CITY = 'Ubon Ratchathani,TH';
 const ICON_URL = 'https://openweathermap.org/img/wn/';
 
 async function fetchWeather() {
