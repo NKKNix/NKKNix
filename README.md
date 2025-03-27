@@ -9,7 +9,6 @@ I'm a passionate and curious developer who loves building things from scratch, l
 
 ---
 
-
 ## 🔨 Tech Stack
 
 | **Frontend** | 
