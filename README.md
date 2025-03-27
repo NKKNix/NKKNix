@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hi there, I'm Nick 👋
 
 | 🌍 [Ubon Ratchathani Thailand ] | 📧 [supawit.thongrueng@gmail.com] |
@@ -11,7 +10,7 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ---
 # 🌤️ Ubon Ratchathani Weather
 
-> Current weather automatically updated every hour
+> Weather on Ubon Ratchathani
 
 ![Weather](https://raw.githubusercontent.com/NKKNix/NKKNix/main/weather.svg)
 
