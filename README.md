@@ -10,7 +10,7 @@ I'm a passionate and curious developer who loves building things from scratch, l
 ---
 # 🌤️ Ubon Ratchathani Weather
 
-> Weather on Ubon Ratchathani
+> Weather In Ubon Ratchathani
 
 ![Weather](https://raw.githubusercontent.com/NKKNix/NKKNix/main/weather.svg)
 
