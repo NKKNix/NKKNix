@@ -31,7 +31,7 @@ async function fetchWeather() {
   <style>
     .text { font: bold 20px sans-serif; fill: #333; }
   </style>
-  <image href="${iconDataURI}" x="10" y="10" height="80" width="80"/>
+  <image href="${iconDataURI}" x="10" y="10" height="120" width="100"/>
   <text x="100" y="40" class="text">${CITY}</text>
   <text x="100" y="70" class="text">${temp}°C - ${description}</text>
   <text x="100" y="90" class="text">Updated: ${timeInBangkok} (TH)</text>
