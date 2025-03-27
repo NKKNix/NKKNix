@@ -27,16 +27,21 @@ async function fetchWeather() {
 }).format(new Date());
 
   const svg = `
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120">
   <style>
-    .text { font: bold 20px sans-serif; fill: #333; }
+    .label { font: bold 18px sans-serif; fill: #333; }
   </style>
-  <image href="${iconDataURI}" x="10" y="10" height="120" width="100"/>
-  <text x="100" y="40" class="text">${CITY}</text>
-  <text x="100" y="70" class="text">${temp}°C - ${description}</text>
-  <text x="100" y="90" class="text">Updated: ${timeInBangkok} (TH)</text>
+
+  <!-- Icon on the left -->
+  <image href="${iconDataURI}" x="20" y="20" height="80" width="80"/>
+
+  
+  <text x="120" y="45" class="label">${CITY}</text>
+  <text x="120" y="70" class="label">${temp}°C - ${description}</text>
+  <text x="120" y="95" class="label">Updated: ${timeInBangkok} (TH)</text>
 </svg>
 `;
+
 
   fs.writeFileSync('weather.svg', svg.trim());
 }
