@@ -18,19 +18,30 @@ async function fetchWeather() {
   const iconResponse = await axios.get(iconURL, { responseType: 'arraybuffer' });
   const iconBase64 = Buffer.from(iconResponse.data).toString('base64');
   const iconDataURI = `data:image/png;base64,${iconBase64}`;
-  const now = new Date().toLocaleTimeString();
+  const timeInBangkok = new Intl.DateTimeFormat('en-TH', {
+  timeZone: 'Asia/Bangkok',
+  hour: '2-digit',
+  minute: '2-digit',
+  second: '2-digit',
+  hour12: true
+}).format(new Date());
 
   const svg = `
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120">
   <style>
-    .text { font: bold 20px sans-serif; fill: #333; }
+    .label { font: bold 18px sans-serif; fill: #333; }
   </style>
-  <image href="${iconDataURI}" x="10" y="10" height="80" width="80"/>
-  <text x="100" y="40" class="text">${CITY}</text>
-  <text x="100" y="70" class="text">${temp}°C - ${description}</text>
-  <text x="100" y="90" class="text">Updated: ${now}</text>
+
+  <!-- Icon on the left -->
+  <image href="${iconDataURI}" x="20" y="20" height="80" width="80"/>
+
+  
+  <text x="120" y="45" class="label">${CITY}</text>
+  <text x="120" y="70" class="label">${temp}°C - ${description}</text>
+  <text x="120" y="95" class="label">Updated: ${timeInBangkok} (TH)</text>
 </svg>
 `;
+
 
   fs.writeFileSync('weather.svg', svg.trim());
 }
