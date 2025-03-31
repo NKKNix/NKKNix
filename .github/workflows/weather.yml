@@ -23,8 +23,8 @@ jobs:
         env:
           OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
       - run: |
-          git config user.name "NKKNix"
-          git config user.email "supawit.thongrueng@gmail.com"
+          git config user.name ${{ secrets.USERNAME }}
+          git config user.email ${{ secrets.GMAIL }}
           git add weather.svg
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update weather"
           git push
