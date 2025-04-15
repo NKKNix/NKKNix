@@ -104,3 +104,12 @@ A full-featured RESTful API backend built with Express.js, Supabase, and Redis, 
 [Ubon Ratchathani University], [2025]
 
 ---
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/NKKNix?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" alt="stat-rank's GitHub Stats" width="100%" /></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NKKNixk&amp;theme=monokai" alt="code" width="100%" /></td>
+</tr>
+</table>
