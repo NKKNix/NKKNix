@@ -78,6 +78,8 @@ A web-based application for managing automotive parts inventory, built with Djan
 
 [🌍 Website](https://autopart-hjf5.onrender.com/)
 
+📝 Note: The service may take up to 50 seconds to start due to free Render hosting.
+
 ### 🖥️ **POS for restaurant**
 A modern web-based Point of Sale (POS) system designed specifically for restaurants. Built with Vite.js for a fast and responsive frontend experience, and powered by Go Fiber on the backend for efficient, high-performance APIs
 
