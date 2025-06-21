@@ -1,4 +1,4 @@
-# Hi there, I'm Nick 👋
+# Hi there, I'm Nick 
 
 | 🌍 [Ubon Ratchathani Thailand ] | 📧 [supawit.thongrueng@gmail.com] |
 
