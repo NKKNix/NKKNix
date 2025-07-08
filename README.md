@@ -110,6 +110,8 @@ A full-featured RESTful API backend built with Express.js, Supabase, and Redis, 
 <tr>
 <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/NKKNix?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" alt="stat-rank's GitHub Stats" width="100%" /></td>
 <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NKKNix&amp;theme=monokai" alt="code" width="100%" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKKNix&layout=compact&theme=pie" alt="all-lang" width="100%" /></td>
+</tr>
+<tr>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKKNix&layout=compact&theme=pie" alt="all-lang" width="100%" /></td>
 </tr>
 </table>
